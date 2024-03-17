@@ -1,0 +1,3 @@
+/Users/nazardahnovski/c__train/discret_math/cmake-build-debug/CMakeFiles/discret_math.dir
+/Users/nazardahnovski/c__train/discret_math/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazardahnovski/c__train/discret_math/cmake-build-debug/CMakeFiles/rebuild_cache.dir
