@@ -14,8 +14,8 @@
 Ways of representing graphs
 There are three main methods of discretely representing a graph:
 
-Incidence matrix;
+        1) Incidence matrix;
 
-Adjacency matrix;
+        2) Adjacency matrix;
 
-Adjacency list.
+        3) Adjacency list.
