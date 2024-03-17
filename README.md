@@ -1,5 +1,5 @@
 # DiscretMath__GraphsPresentation
-Представление графов в ЭВМ в виде матриц / Graph representation in Computing Machine using matrix.
+Представление графов в ЭВМ используя матрицы и список / Graph representation in Computing Machine using matrix and list.
 
 Способы задания графов  
 Существует три основных способа дискретного задания графа:
@@ -9,7 +9,7 @@
         2) Матрица смежности;
 
         3) Список смежности;
-
+*Программа по преобразованию различных форм хранения графа.
 
 Ways of representing graphs
 There are three main methods of discretely representing a graph:
@@ -19,3 +19,4 @@ There are three main methods of discretely representing a graph:
         2) Adjacency matrix;
 
         3) Adjacency list.
+*A program for converting various graph storage formats.
